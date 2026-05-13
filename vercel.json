@@ -1,4 +1,6 @@
 {
+  "buildCommand": "echo done",
+  "outputDirectory": ".",
   "crons": [
     {
       "path": "/api/cron",
@@ -6,4 +8,5 @@
     }
   ]
 }
+
 
